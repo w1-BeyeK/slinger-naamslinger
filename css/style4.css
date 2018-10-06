@@ -16,10 +16,12 @@
 	font-size: 30px;
 }
 .rw-sentence span{
-	color: #000;
+	color: #0073e6;
 	white-space: nowrap;
 }
 .rw-sentence > span:first-child{
+    color:deeppink;
+    margin-top:1.5em;
 	display: block;
 	text-indent: 5px;
 	font-size: 3em;
@@ -43,7 +45,7 @@
 }
 .rw-words-1 span{
 font-family:'Oxygen-Regular';
-	font-size: 1.2em;
+	font-size: 1.8em;
 	-webkit-animation: rotateWordsFirst 18s linear infinite 0s;
 	-moz-animation: rotateWordsFirst 18s linear infinite 0s;
 	-o-animation: rotateWordsFirst 18s linear infinite 0s;
@@ -171,6 +173,7 @@ font-family:'Oxygen-Regular';
 /*--responsive--*/
 @media(max-width: 1280px){
 .rw-sentence > span:first-child {
+    margin-top:1.5em;
     font-size: 2.6em;
 }
 .rw-words-2 span {
@@ -187,7 +190,8 @@ font-family:'Oxygen-Regular';
 }
 @media(max-width:768px){
 .rw-sentence > span:first-child {
-    font-size: 1.8em;
+    margin-top:1em;
+    font-size: 1.5em;
 }
 .rw-words-1 span {
     font-size: 1em;
