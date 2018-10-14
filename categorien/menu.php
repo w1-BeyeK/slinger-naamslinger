@@ -11,7 +11,7 @@
     <div class="container">
         <div class="head">
             <div class=" logo">
-                <a href="../index.html"><img src="../images/logo.png" alt=""></a>
+                <a href="../../index.html"><img src="../../images/logo.png" alt=""></a>
             </div>
         </div>
     </div>
@@ -19,19 +19,19 @@
         <div class="container">
             <div class="col-sm-5 col-md-offset-2  header-login">
                 <ul >
-                    <li><a href="../login.html">Login</a></li>
-                    <li><a href="../register.html">Register</a></li>
-                    <li><a href="../checkout.html">Checkout</a></li>
+                    <li><a href="../../login.html">Login</a></li>
+                    <li><a href="../../register.html">Register</a></li>
+                    <li><a href="../../checkout.html">Checkout</a></li>
                 </ul>
             </div>
 
             <div class="col-sm-5 header-social">
                 <ul >
-                    <li><a href="../#"><i></i></a></li>
+                    <li><a href="../../#"><i></i></a></li>
                     <li><a href="https://www.facebook.com/Partyslingers.1/" target="_blank"><i class="ic1"></i></a></li>
-                    <li><a href="../#"><i class="ic2"></i></a></li>
-                    <li><a href="../#"><i class="ic3"></i></a></li>
-                    <li><a href="../#"><i class="ic4"></i></a></li>
+                    <li><a href="../../#"><i class="ic2"></i></a></li>
+                    <li><a href="../../#"><i class="ic3"></i></a></li>
+                    <li><a href="../../#"><i class="ic4"></i></a></li>
                 </ul>
 
             </div>
@@ -59,22 +59,22 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                         <ul class="nav navbar-nav nav_1">
-                            <li><a class="color" href="../index.html">Home</a></li>
+                            <li><a class="color" href="../../index.html">Home</a></li>
 
                             <li class="dropdown mega-dropdown active">
-                                <a class="color1" href="../#" class="dropdown-toggle" data-toggle="dropdown">Slinger ontwerpen<span class="caret"></span></a>
+                                <a class="color1" href="../../#" class="dropdown-toggle" data-toggle="dropdown">Slinger ontwerpen<span class="caret"></span></a>
                                 <div class="dropdown-menu ">
                                     <div class="menu-top">
                                         <div class="col1">
                                             <div class="h_nav">
                                                 <h4>Slinger ontwerpen</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">Geboorteslingers</a></li>
-													<li><a href="../product.html">Opa en Oma geboorteslingers</a></li>
-                                                    <li><a href="../product.html">Verjaardagslingers</a></li>
-                                                    <li><a href="../product.html">Feestlingers</a></li>
-                                                    <li><a href="../product.html">Naamslingers</a></li>
-                                                    <li><a href="../product.html">Tekstslingers</a></li>
+                                                    <li><a href="../../product.html">Geboorteslingers</a></li>
+													<li><a href="../../product.html">Opa en Oma geboorteslingers</a></li>
+                                                    <li><a href="../../product.html">Verjaardagslingers</a></li>
+                                                    <li><a href="../../product.html">Feestlingers</a></li>
+                                                    <li><a href="../../product.html">Naamslingers</a></li>
+                                                    <li><a href="../../product.html">Tekstslingers</a></li>
 
                                                 </ul>
                                             </div>
@@ -83,12 +83,12 @@
                                             <div class="h_nav">
                                                 <h4>Thema Slingers</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">Romperslingers</a></li>
-                                                    <li><a href="../product.html">Treinslingers</a></li>
-                                                    <li><a href="../product.html">Hartjesslingers</a></li>
-                                                    <li><a href="../product.html">Vlaggenslingers</a></li>
-                                                    <li><a href="../product.html">Voetbalslingers </a></li>
-                                                    <li><a href="../product.html">  </a></li>
+                                                    <li><a href="../../product.html">Romperslingers</a></li>
+                                                    <li><a href="../../product.html">Treinslingers</a></li>
+                                                    <li><a href="../../product.html">Hartjesslingers</a></li>
+                                                    <li><a href="../../product.html">Vlaggenslingers</a></li>
+                                                    <li><a href="../../product.html">Voetbalslingers </a></li>
+                                                    <li><a href="../../product.html">  </a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -96,12 +96,12 @@
                                             <div class="h_nav">
                                                 <h4>Bedrijven</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">Tekstslinger </a></li>
-                                                    <li><a href="../product.html">Naamslingers</a></li>
-                                                    <li><a href="../product.html">Sunglasses</a></li>
-                                                    <li><a href="../product.html">Sweatpants</a></li>
-                                                    <li><a href="../product.html">Swimwear</a></li>
-                                                    <li><a href="../product.html">Trousers & Chinos</a></li>
+                                                    <li><a href="../../product.html">Tekstslinger </a></li>
+                                                    <li><a href="../../product.html">Naamslingers</a></li>
+                                                    <li><a href="../../product.html">Sunglasses</a></li>
+                                                    <li><a href="../../product.html">Sweatpants</a></li>
+                                                    <li><a href="../../product.html">Swimwear</a></li>
+                                                    <li><a href="../../product.html">Trousers & Chinos</a></li>
 
                                                 </ul>
 
@@ -111,34 +111,34 @@
                                             <div class="h_nav">
                                                 <h4>  </h4>
                                                 <ul>
-                                                    <li><a href="../product.html">T-Shirts</a></li>
-                                                    <li><a href="../product.html">Underwear & Socks</a></li>
-                                                    <li><a href="../product.html">Vests</a></li>
-                                                    <li><a href="../product.html">Jackets & Coats</a></li>
-                                                    <li><a href="../product.html">Jeans</a></li>
-                                                    <li><a href="../product.html">Jewellery</a></li>
+                                                    <li><a href="../../product.html">T-Shirts</a></li>
+                                                    <li><a href="../../product.html">Underwear & Socks</a></li>
+                                                    <li><a href="../../product.html">Vests</a></li>
+                                                    <li><a href="../../product.html">Jackets & Coats</a></li>
+                                                    <li><a href="../../product.html">Jeans</a></li>
+                                                    <li><a href="../../product.html">Jewellery</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col1 col5">
-                                            <img src="../images/me.png" class="img-responsive" alt="">
+                                            <img src="../../images/me.png" class="img-responsive" alt="">
                                         </div>
                                         <div class="clearfix"></div>
                                     </div>
                                 </div>
                             </li>
                             <li class="dropdown mega-dropdown active">
-                                <a class="color2" href="../#" class="dropdown-toggle" data-toggle="dropdown">Men<span class="caret"></span></a>
+                                <a class="color2" href="../../#" class="dropdown-toggle" data-toggle="dropdown">Men<span class="caret"></span></a>
                                 <div class="dropdown-menu mega-dropdown-menu">
                                     <div class="menu-top">
                                         <div class="col1">
                                             <div class="h_nav">
                                                 <h4>Submenu1</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">Accessories</a></li>
-                                                    <li><a href="../product.html">Bags</a></li>
-                                                    <li><a href="../product.html">Caps & Hats</a></li>
-                                                    <li><a href="../product.html">Hoodies & Sweatshirts</a></li>
+                                                    <li><a href="../../product.html">Accessories</a></li>
+                                                    <li><a href="../../product.html">Bags</a></li>
+                                                    <li><a href="../../product.html">Caps & Hats</a></li>
+                                                    <li><a href="../../product.html">Hoodies & Sweatshirts</a></li>
 
                                                 </ul>
                                             </div>
@@ -147,12 +147,12 @@
                                             <div class="h_nav">
                                                 <h4>Submenu2</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">Jackets & Coats</a></li>
-                                                    <li><a href="../product.html">Jeans</a></li>
-                                                    <li><a href="../product.html">Jewellery</a></li>
-                                                    <li><a href="../product.html">Jumpers & Cardigans</a></li>
-                                                    <li><a href="../product.html">Leather Jackets</a></li>
-                                                    <li><a href="../product.html">Long Sleeve T-Shirts</a></li>
+                                                    <li><a href="../../product.html">Jackets & Coats</a></li>
+                                                    <li><a href="../../product.html">Jeans</a></li>
+                                                    <li><a href="../../product.html">Jewellery</a></li>
+                                                    <li><a href="../../product.html">Jumpers & Cardigans</a></li>
+                                                    <li><a href="../../product.html">Leather Jackets</a></li>
+                                                    <li><a href="../../product.html">Long Sleeve T-Shirts</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -161,12 +161,12 @@
                                                 <h4>Submenu3</h4>
 
                                                 <ul>
-                                                    <li><a href="../product.html">Shirts</a></li>
-                                                    <li><a href="../product.html">Shoes, Boots & Trainers</a></li>
-                                                    <li><a href="../product.html">Sunglasses</a></li>
-                                                    <li><a href="../product.html">Sweatpants</a></li>
-                                                    <li><a href="../product.html">Swimwear</a></li>
-                                                    <li><a href="../product.html">Trousers & Chinos</a></li>
+                                                    <li><a href="../../product.html">Shirts</a></li>
+                                                    <li><a href="../../product.html">Shoes, Boots & Trainers</a></li>
+                                                    <li><a href="../../product.html">Sunglasses</a></li>
+                                                    <li><a href="../../product.html">Sweatpants</a></li>
+                                                    <li><a href="../../product.html">Swimwear</a></li>
+                                                    <li><a href="../../product.html">Trousers & Chinos</a></li>
 
                                                 </ul>
 
@@ -176,26 +176,26 @@
                                             <div class="h_nav">
                                                 <h4>Submenu4</h4>
                                                 <ul>
-                                                    <li><a href="../product.html">T-Shirts</a></li>
-                                                    <li><a href="../product.html">Underwear & Socks</a></li>
-                                                    <li><a href="../product.html">Vests</a></li>
-                                                    <li><a href="../product.html">Jackets & Coats</a></li>
-                                                    <li><a href="../product.html">Jeans</a></li>
-                                                    <li><a href="../product.html">Jewellery</a></li>
+                                                    <li><a href="../../product.html">T-Shirts</a></li>
+                                                    <li><a href="../../product.html">Underwear & Socks</a></li>
+                                                    <li><a href="../../product.html">Vests</a></li>
+                                                    <li><a href="../../product.html">Jackets & Coats</a></li>
+                                                    <li><a href="../../product.html">Jeans</a></li>
+                                                    <li><a href="../../product.html">Jewellery</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col1 col5">
-                                            <img src="../images/me1.png" class="img-responsive" alt="">
+                                            <img src="../../images/me1.png" class="img-responsive" alt="">
                                         </div>
                                         <div class="clearfix"></div>
                                     </div>
                                 </div>
                             </li>
-<!--                            <li><a class="color3" href="../product.html">Sale</a></li>-->
-<!--                            <li><a class="color4" href="../404.html">About</a></li>-->
-<!--                            <li><a class="color5" href="../typo.html">Short Codes</a></li>-->
-                            <li ><a class="color6" href="../contact.html">Contact</a></li>
+<!--                            <li><a class="color3" href="../../product.html">Sale</a></li>-->
+<!--                            <li><a class="color4" href="../../404.html">About</a></li>-->
+<!--                            <li><a class="color5" href="../../typo.html">Short Codes</a></li>-->
+                            <li ><a class="color6" href="../../contact.html">Contact</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
 
@@ -204,16 +204,16 @@
             <div class="col-sm-2 search-right">
                 <ul class="heart">
                     <li>
-                        <a href="../wishlist.html" >
+                        <a href="../../wishlist.html" >
                             <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
                         </a></li>
-                    <li><a class="play-icon popup-with-zoom-anim" href="../#small-dialog"><i class="glyphicon glyphicon-search"> </i></a></li>
+                    <li><a class="play-icon popup-with-zoom-anim" href="../../#small-dialog"><i class="glyphicon glyphicon-search"> </i></a></li>
                 </ul>
                 <div class="cart box_1">
-                    <a href="../checkout.html">
+                    <a href="../../checkout.html">
                         <h3> <div class="total">
                                 <span class="">€24,99</span></div>
-                            <img src="../images/cart.png" alt=""/></h3>
+                            <img src="../../images/cart.png" alt=""/></h3>
                     </a>
                     <p><a>Empty Cart</a></p>
 
@@ -223,8 +223,8 @@
                 <!----->
 
                 <!---pop-up-box---->
-                <link href="../css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
-                <script src="../js/jquery.magnific-popup.js" type="text/javascript"></script>
+                <link href="../../css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+                <script src="../../js/jquery.magnific-popup.js" type="text/javascript"></script>
                 <!---//pop-up-box---->
                 <div id="small-dialog" class="mfp-hide">
                     <div class="search-top">

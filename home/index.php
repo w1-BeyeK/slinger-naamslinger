@@ -100,13 +100,13 @@
             </div>
             <!--products-->
             <div class="content-mid">
-                <h3>Trending Items</h3>
+                <h3>Trendy Slingers</h3>
                 <label class="line"></label>
                 <div class="mid-popular">
                     <div class="col-md-4 item-grid simpleCart_shelfItem">
                         <div class=" mid-pop">
                             <div class="pro-img">
-                                <img src="../images/pi1.jpg" class="img-responsive" alt="">
+                                <img src="../images/HOERA SANNE IS GEBOREN.PNG" class="img-responsive" alt="">
                                 <div class="zoom-icon ">
                                     <a class="picture" href="images/pc.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
                                     <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
@@ -115,8 +115,8 @@
                             <div class="mid-1">
                                 <div class="women">
                                     <div class="women-top">
-                                        <span>Women</span>
-                                        <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                        <span>Geboorte</span>
+                                        <h6><a href="single.html">Prijs voorbeeld</a></h6>
                                     </div>
                                     <div class="img item_add">
                                         <a href="#"><img src="../images/ca.png" alt=""></a>
@@ -124,7 +124,7 @@
                                     <div class="clearfix"></div>
                                 </div>
                                 <div class="mid-2">
-                                    <p ><label>$100.00</label><em class="item_price">$70.00</em></p>
+                                    <p ><label></label><em class="item_price">€ 17.05</em></p>
                                     <div class="block">
                                         <div class="starbox small ghosting"> </div>
                                     </div>
@@ -138,7 +138,7 @@
                     <div class="col-md-4 item-grid simpleCart_shelfItem">
                         <div class=" mid-pop">
                             <div class="pro-img">
-                                <img src="../images/pi1.jpg" class="img-responsive" alt="">
+                                <img src="../images/HOERA EVY IS GESLAAGD.png" class="img-responsive" alt="">
                                 <div class="zoom-icon ">
                                     <a class="picture" href="images/pc.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
                                     <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
@@ -147,8 +147,8 @@
                             <div class="mid-1">
                                 <div class="women">
                                     <div class="women-top">
-                                        <span>Women</span>
-                                        <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                        <span>Feest</span>
+                                        <h6><a href="single.html">Prijs voorbeeld</a></h6>
                                     </div>
                                     <div class="img item_add">
                                         <a href="#"><img src="../images/ca.png" alt=""></a>
@@ -156,7 +156,7 @@
                                     <div class="clearfix"></div>
                                 </div>
                                 <div class="mid-2">
-                                    <p ><label>$100.00</label><em class="item_price">$70.00</em></p>
+                                    <p ><label></label><em class="item_price">€ 12.60 </em></p>
                                     <div class="block">
                                         <div class="starbox small ghosting"> </div>
                                     </div>
@@ -170,7 +170,7 @@
                     <div class="col-md-4 item-grid simpleCart_shelfItem">
                         <div class=" mid-pop">
                             <div class="pro-img">
-                                <img src="../images/pi1.jpg" class="img-responsive" alt="">
+                                <img src="../images/Hoera opa en oma.png" class="img-responsive" alt="">
                                 <div class="zoom-icon ">
                                     <a class="picture" href="images/pc.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
                                     <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
@@ -179,8 +179,8 @@
                             <div class="mid-1">
                                 <div class="women">
                                     <div class="women-top">
-                                        <span>Women</span>
-                                        <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                        <span>Kleinkind</span>
+                                        <h6><a href="single.html">Prijs voorbeeld</a></h6>
                                     </div>
                                     <div class="img item_add">
                                         <a href="#"><img src="../images/ca.png" alt=""></a>
@@ -188,7 +188,7 @@
                                     <div class="clearfix"></div>
                                 </div>
                                 <div class="mid-2">
-                                    <p ><label>$100.00</label><em class="item_price">$70.00</em></p>
+                                    <p ><label></label><em class="item_price">€ 12.85</em></p>
                                     <div class="block">
                                         <div class="starbox small ghosting"> </div>
                                     </div>

@@ -17,14 +17,14 @@
         <div class="container">
             <div class="col-md-3 footer-middle-in">
                 <a href="index.html"><img src="../images/log.png" alt=""></a>
-                <p>Suspendisse sed accumsan risus. Curabitur rhoncus, elit vel tincidunt elementum, nunc urna tristique nisi, in interdum libero magna tristique ante. adipiscing varius. Vestibulum dolor lorem.</p>
+                <p>Voor al uw geplastificeerde Tekst en Feestslingers, Traktaties en Raamposters.</p>
             </div>
 
             <div class="col-md-3 footer-middle-in">
-                <h6>Information</h6>
+                <h6>Informatie</h6>
                 <ul class=" in">
                     <li><a href="404.html">About</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                     <li><a href="#">Returns</a></li>
                     <li><a href="contact.html">Site Map</a></li>
                 </ul>
@@ -38,13 +38,14 @@
             <div class="col-md-3 footer-middle-in">
                 <h6>Tags</h6>
                 <ul class="tag-in">
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Sed</a></li>
-                    <li><a href="#">Ipsum</a></li>
-                    <li><a href="#">Contrary</a></li>
-                    <li><a href="#">Chunk</a></li>
-                    <li><a href="#">Amet</a></li>
-                    <li><a href="#">Omnis</a></li>
+                    <li><a href="#">Geboorteslingers</a></li>
+                    <li><a href="#">Verjaardagslingers</a></li>
+                    <li><a href="#">Feestslingers</a></li>
+                    <li><a href="#">Tekstslingers</a></li>
+                    <li><a href="#">Traktatie</a></li>
+                    <li><a href="#">Raamposters</a></li>
+                    <li><a href="#">Romperslingers</a></li>
+					<li><a href="#">Vlaggenslingers</a></li>
                 </ul>
             </div>
             <div class="col-md-3 footer-middle-in">
@@ -65,7 +66,7 @@
                 <li><a href="#"><img src="../images/f2.png" class="img-responsive" alt=""></a></li>
                 <li><a href="#"><img src="../images/f3.png" class="img-responsive" alt=""></a></li>
             </ul>
-            <p class="footer-class">&copy; 2016 Shopin. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+            <p class="footer-class">&copy; 2018 Partyslingers. All Rights Reserved | Design by  <a href="http:www.partyslingers.nl" target="_blank">Kevin Beye</a> </p>
             <div class="clearfix"> </div>
         </div>
     </div>
